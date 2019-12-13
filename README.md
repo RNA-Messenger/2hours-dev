@@ -2,7 +2,7 @@
 Floom Challenge in 2 hours tops
 
 To start the project do npm install and then npm run build and go to http://localhost:3000/ in your browser.
-Please, make sure to create the { .babelrc } file
+Please, make sure to create the { .babelrc } file >>>
 
 {
   "presets": ["env", "react", "stage-3"],
@@ -10,6 +10,8 @@ Please, make sure to create the { .babelrc } file
     ["import", { "libraryName": "antd", "libraryDirectory": "es", "style": "css" }]
   ]
 }
+
+(this object should be in the babel file)
 
 
 package.json 
