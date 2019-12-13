@@ -1,0 +1,11 @@
+.FiltersContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: center;
+    padding: 32px;
+}
+
+.FiltersContainer .LocationFilter{
+    display: inherit;
+}

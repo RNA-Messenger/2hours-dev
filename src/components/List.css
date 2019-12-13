@@ -1,0 +1,12 @@
+.ListContainer {
+    width: 100%;
+    border-top: 1px solid #CCC;
+}
+
+.ListContainer ul{
+    width: 90%;
+    margin: 5% auto;
+}
+
+
+

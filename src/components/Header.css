@@ -1,0 +1,25 @@
+.HeaderContainer{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: center;
+    background-color: #B9D4DB;
+}
+
+.HeaderContainer .LocoContainer{
+    width:20%;
+}
+
+.HeaderContainer .LocoContainer img{
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.HeaderContainer .TitleContainer{
+    font-size: 1em;
+    line-height: 1em;
+    margin: auto 0;
+    color: #bdbdbd;
+}
+
