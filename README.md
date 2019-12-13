@@ -1,7 +1,7 @@
 # FloomChallenge
 Floom Challenge in 2 hours tops
 
-To start the project just do npm run build and go to http://localhost:8888/ in your browser.
+To start the project just do npm run build and go to http://localhost:3000/ in your browser.
 
 package.json 
 
