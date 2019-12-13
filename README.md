@@ -1,8 +1,8 @@
 # FloomChallenge
 Floom Challenge in 2 hours tops
 
-To start the project just do npm run build and go to http://localhost:3000/ in your browser.
-
+To start the project do npm install and then npm run build and go to http://localhost:3000/ in your browser.
+Please, make sure to change the name of the { babelrc.txt } file to { .babelrc }
 package.json 
 
     I have add Ant Design dependency.
