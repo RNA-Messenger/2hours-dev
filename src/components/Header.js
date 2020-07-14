@@ -13,7 +13,7 @@ export default class Header extends Component {
     
     return (
         <div className='HeaderContainer'>
-          <div className='LocoContainer'> <img alt='Floom Logo' src={logo} /></div>
+          <div className='LocoContainer'> <img alt='Logo' src={logo} /></div>
           <h1 className='TitleContainer'> Tech Test From AN.Rubisse </h1>
         </div>
     );
